@@ -18,7 +18,7 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/GDNBharat/Xerox-userbot-")
 BRANCH = getenv("BRANCH", "master") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "BQGwyGIAFMCZ6X7ED31hvJDTZN9n49TvY1_3Pq2FcXv2viVWUIC0YqqY-bQFfvK7yzrPJ8aoiHLZEnKEPqlwihGVkKCML6wxrckHHz4lSZM1k7fp4xMXFo6zD4fO9Lal5YIPUfm3ut0346AYku7ck4jfMvmn_nCU9KyQD4DB0ETfhYdM4gQPhvHFq1YoW_o_2OuBOfK7r6MLqUCrr7vQKzioxv69OuZ0zX5oIEvKrF9ue2QX0dDwia6B_jBCgdZnz2tUdpfTfw3L0ey-3TBLYTurs7Ubp_YBrapyeWBFuPz0gwJNlaoEIFz1df2Ln0-G57Vr-BmP_Q0qMvt-3iScD6259XL2PgAAAAHETnMdAA")
